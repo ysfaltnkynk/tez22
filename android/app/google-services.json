@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "728375804780",
+    "project_id": "tezemlakapp",
+    "storage_bucket": "tezemlakapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728375804780:android:6b40b50351f6214c1f6949",
+        "android_client_info": {
+          "package_name": "com.example.tez2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZGydhIvaw_JJX46SuoWKmXpxpImIA_uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
